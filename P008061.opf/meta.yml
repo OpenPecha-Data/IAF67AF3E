@@ -1,15 +1,16 @@
-id: opecha:P008061
+id: P008061
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC275
   title: 'ང་ཚོ་སྤྲིན་བཞིན་འཕྱོ། '
-  volume:
+  author: ''
+  volumes:
     a3cf607e24154782bd956cc45fc0d7e1:
       image_group_id: I2PD20341
       title: Volume 1 of nga tsho sprin bzhin 'phyo/
       volume_number: 1
       total_pages: 354
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: 'ང་ཚོ་སྤྲིན་བཞིན་འཕྱོ། '
   author: ''
