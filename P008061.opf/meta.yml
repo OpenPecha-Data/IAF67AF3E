@@ -5,11 +5,12 @@ source_metadata:
   title: 'ང་ཚོ་སྤྲིན་བཞིན་འཕྱོ། '
   author: ''
   volumes:
-    0358bd3a673d4cfcb640e15530590502:
+    a3cf607e24154782bd956cc45fc0d7e1:
       image_group_id: I2PD20341
-      title: ''
+      title: Volume 1 of nga tsho sprin bzhin 'phyo/
       volume_number: 1
       total_pages: 354
+      base_file: v001.txt
 ebook_metadata:
   title: 'ང་ཚོ་སྤྲིན་བཞིན་འཕྱོ། '
   author: ''
